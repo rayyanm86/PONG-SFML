@@ -14,12 +14,12 @@ A classic Pong game built with **C++** and **SFML**, featuring:
 
 ## 🛠️ Features
 
-✅ Single Player vs AI
-✅ Local Two Player Mode
-✅ Score Tracking
-✅ 60-Second Rounds
-✅ Adaptive AI Speed – The AI paddle **gradually increases its speed over time**, becoming more challenging as the match progresses.
-✅ Simple, retro-inspired visuals
+-Single Player vs AI
+-Local Two Player Mode
+-Score Tracking
+-60-Second Rounds
+-Adaptive AI Speed – The AI paddle **gradually increases its speed over time**, becoming more challenging as the match progresses.
+-Simple, retro-inspired visuals
 
 ---
 
